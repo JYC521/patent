@@ -1,0 +1,163 @@
+ASPN  Payor Number Assigned.
+BIG.  Enity status set to Undiscounted
+EXP.  Patent Expired for Failure to Pay Maintenance Fees.
+EXPX  Patent Reinstated After Maintenance Fee Payment Confirmed.
+F160  Maintenance Fee Has Already Been Paid. Refund is scheduled.
+F161  Maintenance Fee Tendered too Early. Refund is scheduled.
+F162  Maint Fee Payment Does Not Properly Identify the Patent.
+F163  M.F.Payment/Certificate of Mailing Untimely, 37 CFR 1.8.
+F164  M.F.Payment/Express Mail Procedures Untimely, 37 CFR 1.10.
+F165  M.F.Payment Sent With Fees for Other Purposes - Will Refund.
+F166  M.F. Payment not Accepted/Not Immed. Negotiable/Returned.
+F167  Check/Deposit Account Authorization is Unsigned - Returned.
+F168  Payment Received - Balance in Deposit Account Insufficient.
+F169  Payment is in Excess of Amount Required. Refund Scheduled.
+F170  Payment of Maintenance Fee, 4th Year
+F171  Payment of Maintenance Fee, 8th Year
+F172  Payment of Maintenance Fee, 12th Year
+F173  Payment of Maintenance Fee, 4th Year, Undiscounted Entity
+F174  Payment of Maintenance Fee, 8th Year, Undiscounted Entity
+F175  Payment of Maintenance Fee, 12th Year, Undiscounted Entity
+F176  Surcharge for late payment
+F177  Surchage for late payment, Undiscounted Entity
+F273  Payment of Maintenance Fee, 4th Year, Small Entity
+F274  Payment of Maintenance Fee, 8th Year, Small Entity
+F275  Payment of Maintenance Fee, 12th Year, Small Entity
+F277  Surchage for late payment, Small Entity
+LSM1  Pat Hldr no Longer Claims Small Ent Stat as Indiv Inventor.
+LSM2  Pat Hldr no Longer Claims Small Ent Stat as Small Business.
+LSM3  Pat Hldr no Longer Claims Small Ent Stat as Nonprofit Org..
+LTOS  Entity Status Set to Small
+M1461 Payment of Filing Fees under 1.28(c).
+M1551 Payment of Maintenance Fee, 4th Year, Large Entity.
+M1552 Payment of Maintenance Fee, 8th Year, Large Entity.
+M1553 Payment of Maintenance Fee, 12th Year, Large Entity.
+M1554 Surcharge for Late Payment, Large Entity.
+M1555 7.5 yr surcharge - late pmt w/in 6 mo, Large Entity.
+M1556 11.5 yr surcharge- late pmt w/in 6 mo, Large Entity.
+M1557 Surcharge, Petition to Accept Pymt After Exp, Unavoidable.
+M1558 Petition for delayed maintenance fee payment, 2 years or less
+M1559 Payment of Maintenance Fee under 1.28(c).
+M1560 Petition for delayed maintenance fee payment, more than 2 years
+M170  Payment of Maintenance Fee, 4th Year, PL 96-517.
+M171  Payment of Maintenance Fee, 8th Year, PL 96-517.
+M172  Payment of Maintenance Fee, 12th Year, PL 96-517.
+M173  Payment of Maintenance Fee, 4th Year, PL 97-247.
+M174  Payment of Maintenance Fee, 8th Year, PL 97-247.
+M175  Payment of Maintenance Fee, 12th Year, PL 97-247.
+M176  Surcharge for Late Payment, PL 96-517.
+M177  Surcharge for Late Payment, PL 97-247.
+M178  Surcharge, Petition to Accept Payment After Expiration.
+M181  7.5 yr surcharge - late pmt w/in 6 mo, Large Entity.
+M182  11.5 yr surcharge- late pmt w/in 6 mo, Large Entity.
+M183  Payment of Maintenance Fee, 4th Year, Large Entity.
+M184  Payment of Maintenance Fee, 8th Year, Large Entity.
+M185  Payment of Maintenance Fee, 12th Year, Large Entity.
+M186  Surcharge for Late Payment, Large Entity.
+M187  Surcharge, Petition to Accept Pymt After Exp, Unavoidable.
+M188  Surcharge, Petition to Accept Pymt After Exp, Unintentional.
+M2551 Payment of Maintenance Fee, 4th Yr, Small Entity.
+M2552 Payment of Maintenance Fee, 8th Yr, Small Entity.
+M2553 Payment of Maintenance Fee, 12th Yr, Small Entity.
+M2554 Surcharge for late Payment, Small Entity.
+M2555 7.5 yr surcharge - late pmt w/in 6 mo, Small Entity.
+M2556 11.5 yr surcharge- late pmt w/in 6 mo, Small Entity.
+M2558 Petition for delayed maintenance fee payment, 2 years or less
+M2560 Petition for delayed maintenance fee payment, more than 2 years
+M273  Payment of Maintenance Fee, 4th Yr, Small Entity, PL 97-247.
+M274  Payment of Maintenance Fee, 8th Yr, Small Entity, PL 97-247.
+M275  Payment of Maintenance Fee,12th Yr, Small Entity, PL 97-247.
+M277  Surcharge for Late Payment, Small Entity, PL 97-247.
+M281  7.5 yr surcharge - late pmt w/in 6 mo, Small Entity.
+M282  11.5 yr surcharge- late pmt w/in 6 mo, Small Entity.
+M283  Payment of Maintenance Fee, 4th Yr, Small Entity.
+M284  Payment of Maintenance Fee, 8th Yr, Small Entity.
+M285  Payment of Maintenance Fee, 12th Yr, Small Entity.
+M286  Surcharge for late Payment, Small Entity.
+M3551 Payment of Maintenance Fee, 4th Year, Micro Entity.
+M3552 Payment of Maintenance Fee, 8th Year, Micro Entity.
+M3553 Payment of Maintenance Fee, 12th Year, Micro Entity.
+M3554 Surcharge for Late Payment, Micro Entity.
+M3555 Surcharge for Late Payment, Micro Entity.
+M3556 Surcharge for Late Payment, Micro Entity.
+M3557 Surcharge, Petition to Accept Pymt After Exp, Unavoidable.
+M3558 Petition for delayed maintenance fee payment, 2 years or less
+M3560 Petition for delayed maintenance fee payment, more than 2 years
+M695  Payment of Maintenance Fee under 1.28(c).
+M699  Payment of Filing Fees under 1.28(c).
+MICR  Entity status set to Micro.
+MTOS  Entity Status Set to Small
+PMFD  Petition Related to Maintenance Fees Denied/Dismissed.
+PMFG  Petition Related to Maintenance Fees Granted.
+PMFP  Petition Related to Maintenance Fees Filed.
+PMFS  Petition Related to Maintenance Fees Dismissed.
+PTGR  Petition Related to Maintenance Fees Granted.
+R1461 Refund - Payment of Filing Fees under 1.28(c).
+R1551 Refund - Payment of Maintenance Fee, 4th Year, Large Entity.
+R1552 Refund - Payment of Maintenance Fee, 8th Year, Large Entity.
+R1553 Refund - Payment of Maintenance Fee, 12th Year, Large Entity.
+R1554 Refund - Surcharge for Late Payment, Large Entity.
+R1555 Refund - 7.5 yr surcharge - late pmt w/in 6 mo, Large Entity.
+R1556 Refund - 11.5 yr surcharge - late pmt w/in 6 mo, Large Entity.
+R1557 Refund - Surcharge, Petition to Accept Pymt After Exp, Unavoidable.
+R1558 Refund - Petition for delayed maintenance fee payment, 2 years or less
+R1559 Refund - Payment of Maintenance Fee under 1.28(c).
+R1560 Refund - Petition for delayed maintenance fee payment, more than 2 years
+R160  Refund Processed. Maintenance Fee Has Already Been Paid.
+R161  Refund Processed. Maintenance Fee Tendered too Early.
+R165  Refund Processed. Maintenance Fees Mixed With Other Fees.
+R169  Refund of Excess Payments Processed.
+R170  Refund - Payment of Maintenance Fee, 4th Year, PL 96-517.
+R171  Refund - Payment of Maintenance Fee, 8th Year, PL 96-517.
+R172  Refund - Payment of Maintenance Fee, 12th Year, PL 96-517.
+R173  Refund - Payment of Maintenance Fee, 4th Year, PL 97-247.
+R174  Refund - Payment of Maintenance Fee, 8th Year, PL 97-247.
+R175  Refund - Payment of Maintenance Fee, 12th Year, PL 97-247.
+R176  Refund - Surcharge for Late Payment, PL 96-517.
+R177  Refund - Surcharge for Late Payment, PL 97-247.
+R178  Refund - Surcharge, Petition to Accept Payment After Expiration.
+R181  Refund - 7.5 yr surcharge - late pmt w/in 6 mo, Large Entity.
+R182  Refund - 11.5 yr surcharge - late pmt w/in 6 mo, Large Entity.
+R183  Refund - Payment of Maintenance Fee, 4th Year, Large Entity.
+R184  Refund - Payment of Maintenance Fee, 8th Year, Large Entity.
+R185  Refund - Payment of Maintenance Fee, 12th Year, Large Entity.
+R186  Refund - Surcharge for Late Payment, Large Entity.
+R187  Refund - Surcharge, Petition to Accept Pymt After Exp, Unavoidable.
+R188  Refund - Surcharge, Petition to Accept Pymt After Exp, Unintentional.
+R2551 Refund - Payment of Maintenance Fee, 4th Yr, Small Entity.
+R2552 Refund - Payment of Maintenance Fee, 8th Yr, Small Entity.
+R2553 Refund - Payment of Maintenance Fee, 12th Yr, Small Entity.
+R2554 Refund - Surcharge for late Payment, Small Entity.
+R2555 Refund - 7.5 yr surcharge - late pmt w/in 6 mo, Small Entity.
+R2556 Refund - 11.5 yr surcharge- late pmt w/in 6 mo, Small Entity.
+R2558 Refund - Petition for delayed maintenance fee payment, 2 years or less
+R2560 Refund - Petition for delayed maintenance fee payment, more than 2 years
+R273  Refund - Payment of Maintenance Fee, 4th Yr, Small Entity, PL 97-247.
+R274  Refund - Payment of Maintenance Fee, 8th Yr, Small Entity, PL 97-247.
+R275  Refund - Payment of Maintenance Fee,12th Yr, Small Entity, PL 97-247.
+R277  Refund - Surcharge for Late Payment, Small Entity, PL 97-247.
+R281  Refund - 7.5 yr surcharge - late pmt w/in 6 mo, Small Entity.
+R282  Refund - 11.5 yr surcharge- late pmt w/in 6 mo, Small Entity.
+R283  Refund - Payment of Maintenance Fee, 4th Yr, Small Entity.
+R284  Refund - Payment of Maintenance Fee, 8th Yr, Small Entity.
+R285  Refund - Payment of Maintenance Fee, 12th Yr, Small Entity.
+R286  Refund - 3.5 yr surcharge - late pmt w/in 6 mo, Small Entity.
+R3551 Refund - Payment of Maintenance Fee, 4th Year, Micro Entity.
+R3552 Refund - Payment of Maintenance Fee, 8th Year, Micro Entity.
+R3553 Refund - Payment of Maintenance Fee, 12th Year, Micro Entity.
+R3554 Refund - Surcharge for Late Payment, Micro Entity.
+R3555 Refund - Surcharge for Late Payment, Micro Entity.
+R3556 Refund - Surcharge for Late Payment, Micro Entity.
+R3557 Refund - Surcharge, Petition to Accept Pymt After Exp, Unavoidable.
+R3558 Refund - Petition for delayed maintenance fee payment, 2 years or less
+R3560 Refund - Petition for delayed maintenance fee payment, more than 2 years
+R669  Refund - Payment of Filing Fees under 1.28(c).
+R695  Refund - Payment of Maintenance Fee under 1.28(c).
+REM.  Maintenance Fee Reminder Mailed.
+RMPN  Payer Number De-assigned.
+SM01  Pat Holder Claims Small Entity Status - Indiv Inventor.
+SM02  Pat Holder Claims Small Entity Status - Small Business.
+SM03  Pat Holder Claims Small Entity Status - Nonprofit Org.
+SMAL  Entity status set to Small.
+STOL  Entity Status Set to Undiscounted
+STOM  Entity Status Set to Micro

@@ -35,7 +35,14 @@ ENV/
 .ipynb_checkpoints
 
 # Project data and raw assets
-asset/
+asset/g_patent.tsv.zip
+asset/g_assignee_disambiguated.tsv.zip
+asset/g_application.tsv.zip
+asset/g_cpc_current.tsv.zip
+asset/g_foreign_citation.tsv.zip
+asset/g_us_patent_citation.tsv.zip
+asset/patent_document_stats.csv
+asset/MaintFeeEvents_20261005.txt
 data/
 
 # OS and editor metadata

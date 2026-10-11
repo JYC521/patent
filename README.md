@@ -26,7 +26,7 @@ Failure to pay results in patent abandonment and expiration.
 ```
 patent/
 │
-├── asset/                                   # Raw USPTO / PatentsView bulk archives (read-only, gitignored)
+├── asset/                                   # Raw data; large files excluded from Git (see download instructions below)
 │   ├── Fortune_500_Companies.csv            # Corporate rankings, sectors, and industries (1996–2023)
 │   ├── g_patent.tsv.zip                     # Patent grant dates, types, titles, abstracts
 │   ├── g_assignee_disambiguated.tsv.zip     # Assignee IDs, organizations, and entity types
@@ -115,6 +115,7 @@ Aggregates patenting distributions across sectors, industries, and companies, ge
 ## 4. Current Dataset Inventory
 
 All processed tables are stored in [`data/interim/`](file:///home/jyc521/Codes/patent/data/interim):
+Note: The data/ directory contain generated datasets that are excluded from Git due to their size. These files can be recreated by running the data processing pipeline described in Section 6.
 
 | Table Name | Row Count | Columns | File Size | Description |
 | :--- | :---: | :---: | :---: | :--- |
@@ -196,6 +197,24 @@ Excluding the 32 sparse industries (`num_companies < 3` OR `total_patents < 50`)
 ```bash
 pip install -r requirements.txt
 ```
+
+### Data Availability and Download Instructions
+
+Some raw USPTO source files in `asset/` are too large to include in this Git repository. These files are excluded from version control but are publicly available from the official USPTO data portals.
+
+Download the following files and place them in the `asset/` directory before running the data processing pipeline.
+
+| Required File | Official Download Source |
+| --- | --- |
+| `g_patent.tsv.zip` | [PatentsView Bulk Data](<https://data.uspto.gov/bulkdata/datasets/pvgpatdis>) |
+| `g_assignee_disambiguated.tsv.zip` | [PatentsView Bulk Data](<https://data.uspto.gov/bulkdata/datasets/pvgpatdis>) |
+| `g_application.tsv.zip` | [PatentsView Bulk Data](<https://data.uspto.gov/bulkdata/datasets/pvgpatdis>) |
+| `g_cpc_current.tsv.zip` | [PatentsView Bulk Data](<https://data.uspto.gov/bulkdata/datasets/pvgpatdis>) |
+| `g_foreign_citation.tsv.zip` | [PatentsView Bulk Data](<https://data.uspto.gov/bulkdata/datasets/pvgpatdis>) |
+| `g_us_patent_citation.tsv.zip` | [PatentsView Bulk Data](<https://data.uspto.gov/bulkdata/datasets/pvgpatdis>) |
+| `patent_document_stats.csv` | [Patent Claims Research Dataset](<https://www.uspto.gov/ip-policy/economic-research/research-datasets/patent-claims-research-dataset>) |
+| `MaintFeeEvents_20261005.txt` | [USPTO Maintenance Fee Events Dataset](<https://data.uspto.gov/bulkdata/datasets/PTMNFEE2>) |
+
 
 ### Running the Pipeline End-to-End
 
