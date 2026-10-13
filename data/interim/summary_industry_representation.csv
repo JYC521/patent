@@ -1,0 +1,64 @@
+sector,industry,num_companies,total_patents,avg_patents_per_company
+Technology,Information Technology Services,3,25405,8468.33
+Technology,Semiconductors and Other Electronic Components,9,19612,2179.11
+Technology,"Computers, Office Equipment",5,14142,2828.4
+Technology,Computer Software,3,11776,3925.33
+Aerospace & Defense,Aerospace & Defense,13,10553,811.77
+Technology,Network and Other Communications Equipment,7,8665,1237.86
+Financials,Diversified Financials,5,6150,1230.0
+Technology,Internet Services and Retailing,4,5510,1377.5
+Health Care,Pharmaceuticals,12,3769,314.08
+Chemicals,Chemicals,12,2998,249.83
+Health Care,Medical Products and Equipment,6,2588,431.33
+Industrials,Construction and Farm Machinery,5,2058,411.6
+Technology,Computer Peripherals,2,1964,982.0
+Technology,"Scientific, Photographic and Control Equipment",3,1952,650.67
+Household Products,Household and Personal Products,5,1831,366.2
+Industrials,Industrial Machinery,6,1611,268.5
+Motor Vehicles & Parts,Motor Vehicles & Parts,10,1462,146.2
+Financials,Commercial Banks,10,1209,120.9
+Telecommunications,Telecommunications,9,825,91.67
+Apparel,Apparel,3,799,266.33
+Industrials,"Electronics, Electrical Equipment",3,697,232.33
+Business Services,Financial Data Services,4,684,171.0
+Retailing,Specialty Retailers: Apparel,2,677,338.5
+Financials,Insurance: Property and Casualty (Stock),5,422,84.4
+Energy,"Oil and Gas Equipment, Services",4,278,69.5
+Household Products,"Toys, Sporting Goods",1,250,250.0
+Materials,Forest and Paper Products,2,235,117.5
+"Food, Beverages & Tobacco",Food Consumer Products,11,172,15.64
+Materials,Metals,4,172,43.0
+Materials,"Packaging, Containers",4,165,41.25
+Energy,Petroleum Refining,6,158,26.33
+"Food, Beverages & Tobacco",Beverages,1,94,94.0
+Food & Drug Stores,Food & Drug Stores,4,83,20.75
+Household Products,"Home Equipment, Furnishings",2,77,38.5
+"Food, Beverages & Tobacco",Food Production,4,76,19.0
+Retailing,General Merchandisers,2,66,33.0
+Health Care,Health Care: Pharmacy and Other Services,3,62,20.67
+Energy,Utilities: Gas and Electric,7,58,8.29
+Health Care,Health Care: Insurance and Managed Care,2,32,16.0
+Financials,"Insurance: Life, Health (Stock)",2,24,12.0
+Energy,"Mining, Crude-Oil Production",6,23,3.83
+Wholesalers,Wholesalers: Diversified,1,20,20.0
+Media,Entertainment,2,18,9.0
+Transportation,Railroads,2,18,9.0
+Financials,"Insurance: Life, Health (Mutual)",4,15,3.75
+"Hotels, Restaurants & Leisure",Food Services,2,13,6.5
+Transportation,Airlines,3,12,4.0
+Retailing,Specialty Retailers: Other,3,10,3.33
+Wholesalers,Wholesalers: Electronics and Office Equipment,6,9,1.5
+Health Care,Wholesalers: Health Care,4,9,2.25
+Media,"Publishing, Printing",1,9,9.0
+Engineering & Construction,Engineering & Construction,1,6,6.0
+"Hotels, Restaurants & Leisure","Hotels, Casinos, Resorts",2,4,2.0
+Energy,Energy,3,3,1.0
+Energy,Pipelines,3,3,1.0
+Financials,Securities,1,3,3.0
+"Food, Beverages & Tobacco",Tobacco,1,3,3.0
+Business Services,"Advertising, Marketing",1,1,1.0
+Business Services,Waste Management,1,1,1.0
+Financials,Insurance: Property and Casualty (Mutual),1,1,1.0
+Health Care,Health Care: Medical Facilities,1,1,1.0
+Household Products,zMiscellaneous,1,1,1.0
+Transportation,Transportation and Logistics,1,1,1.0

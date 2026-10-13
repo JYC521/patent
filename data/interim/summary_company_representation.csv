@@ -1,0 +1,257 @@
+f500_company_name,industry,sector,2010,2011,2012,2013,Total,Total 2011-2013,,,
+International Business Machines Corporation,Information Technology Services,Technology,5892,6177,6479,6813,25361,19469,,"Advertising, Marketing",1
+Microsoft Corporation,Computer Software,Technology,3091,2307,2619,2663,10680,7589,,Aerospace & Defense,8130
+General Electric Company,Diversified Financials,Financials,1223,1450,1652,1738,6063,4840,,Airlines,7
+Intel Corporation,Semiconductors and Other Electronic Components,Technology,1653,1244,1293,1460,5650,3997,,Apparel,677
+Hewlett-Packard Company,"Computers, Office Equipment",Technology,1493,1336,1407,1375,5611,4118,,Beverages,77
+Qualcomm Incorporated,Network and Other Communications Equipment,Technology,656,928,1291,2105,4980,4324,,Chemicals,2238
+Broadcom Corporation,Semiconductors and Other Electronic Components,Technology,958,1164,1157,1084,4363,3405,,Commercial Banks,1006
+"Apple, Inc.","Computers, Office Equipment",Technology,562,675,1137,1779,4153,3591,,Computer Peripherals,1511
+Xerox Corporation,"Computers, Office Equipment",Technology,857,880,1052,1013,3802,2945,,Computer Software,8520
+"Micron Technology, Inc.",Semiconductors and Other Electronic Components,Technology,910,945,916,1023,3794,2884,,"Computers, Office Equipment",11098
+Google Inc.,Internet Services and Retailing,Technology,276,427,1156,1853,3712,3436,,Construction and Farm Machinery,1587
+Texas Instruments Incorporated,Semiconductors and Other Electronic Components,Technology,829,793,828,741,3191,2362,,Diversified Financials,4895
+Honeywell International Inc.,Aerospace & Defense,Aerospace & Defense,824,780,816,693,3113,2289,,"Electronics, Electrical Equipment",557
+The Boeing Company,Aerospace & Defense,Aerospace & Defense,659,692,673,788,2812,2153,,Energy,3
+E.I. du Pont de Nemours and Company,Chemicals,Chemicals,506,523,476,489,1994,1488,,Engineering & Construction,6
+"Medtronic, Inc.",Medical Products and Equipment,Health Care,380,381,424,463,1648,1268,,Entertainment,13
+The Procter & Gamble Company,Household and Personal Products,Household Products,333,318,385,439,1475,1142,,Financial Data Services,555
+"Applied Materials, Inc.",Semiconductors and Other Electronic Components,Technology,439,363,332,340,1474,1035,,Food & Drug Stores,64
+Eastman Kodak Company,"Scientific, Photographic and Control Equipment",Technology,353,298,428,394,1473,1120,,Food Consumer Products,138
+Raytheon Company,Aerospace & Defense,Aerospace & Defense,206,323,365,402,1296,1090,,Food Production,57
+EMC Corporation,Computer Peripherals,Technology,306,282,319,374,1281,975,,Food Services,12
+Lockheed Martin Corporation,Aerospace & Defense,Aerospace & Defense,301,296,347,333,1277,976,,Forest and Paper Products,160
+Yahoo! Inc.,Internet Services and Retailing,Technology,290,333,271,313,1207,917,,General Merchandisers,61
+Symantec Corporation,Computer Software,Technology,164,199,324,405,1092,928,,Health Care: Insurance and Managed Care,26
+Johnson & Johnson,Pharmaceuticals,Health Care,225,244,288,333,1090,865,,Health Care: Medical Facilities,1
+United Technologies Corporation,Aerospace & Defense,Aerospace & Defense,212,249,317,309,1087,875,,Health Care: Pharmacy and Other Services,49
+Caterpillar Inc.,Construction and Farm Machinery,Industrials,221,273,266,248,1008,787,,"Home Equipment, Furnishings",68
+"Motorola Mobility Holdings, Inc.",Network and Other Communications Equipment,Technology,53,247,323,310,933,880,,"Hotels, Casinos, Resorts",3
+Corning Incorporated,Network and Other Communications Equipment,Technology,181,213,241,281,916,735,,Household and Personal Products,1424
+Avaya Inc.,Network and Other Communications Equipment,Technology,201,236,231,231,899,698,,Industrial Machinery,1214
+Deere & Company,Construction and Farm Machinery,Industrials,199,187,186,226,798,599,,Information Technology Services,19488
+"Nike, Inc.",Apparel,Apparel,122,176,224,275,797,675,,"Insurance: Life, Health (Mutual)",10
+"Advanced Micro Devices, Inc.",Semiconductors and Other Electronic Components,Technology,175,194,185,236,790,615,,"Insurance: Life, Health (Stock)",17
+Illinois Tool Works Inc.,Industrial Machinery,Industrials,172,168,150,206,696,524,,Insurance: Property and Casualty (Mutual),1
+"NetApp, Inc.",Computer Peripherals,Technology,147,195,176,165,683,536,,Insurance: Property and Casualty (Stock),347
+"Limited Brands, Inc.",Specialty Retailers: Apparel,Retailing,144,158,179,195,676,532,,Internet Services and Retailing,4846
+Whirlpool Corporation,"Electronics, Electrical Equipment",Industrials,86,142,138,189,555,469,,Medical Products and Equipment,2027
+"Allergan, Inc.",Pharmaceuticals,Health Care,107,130,110,200,547,440,,Metals,140
+Eaton Corporation,Industrial Machinery,Industrials,127,121,129,161,538,411,,"Mining, Crude-Oil Production",18
+eBay Inc.,Internet Services and Retailing,Technology,81,110,139,205,535,454,,Motor Vehicles & Parts,1117
+Bank of America Corporation,Commercial Banks,Financials,26,73,165,264,528,502,,Network and Other Communications Equipment,7465
+Abbott Laboratories,Pharmaceuticals,Health Care,105,135,174,106,520,415,,"Oil and Gas Equipment, Services",236
+Harris Corporation,Network and Other Communications Equipment,Technology,107,119,120,138,484,377,,"Packaging, Containers",116
+Bristol-Myers Squibb Company,Pharmaceuticals,Health Care,127,102,123,131,483,356,,Petroleum Refining,124
+"Motorola Solutions, Inc.",Network and Other Communications Equipment,Technology,0,94,200,151,445,445,,Pharmaceuticals,2902
+American Express Company,Commercial Banks,Financials,100,110,130,104,444,344,,Pipelines,2
+"Rockwell Collins, Inc.",Aerospace & Defense,Aerospace & Defense,97,97,106,137,437,340,,"Publishing, Printing",9
+"Agilent Technologies, Inc.","Scientific, Photographic and Control Equipment",Technology,125,116,107,84,432,307,,Railroads,13
+United Services Automobile Association,Insurance: Property and Casualty (Stock),Financials,74,97,106,132,409,335,,"Scientific, Photographic and Control Equipment",1460
+Amgen Inc.,Pharmaceuticals,Health Care,100,107,84,86,377,277,,Securities,3
+Baxter International Inc.,Medical Products and Equipment,Health Care,56,108,96,112,372,316,,Semiconductors and Other Electronic Components,14466
+"Becton, Dickinson and Company",Medical Products and Equipment,Health Care,84,78,68,99,329,245,,Specialty Retailers: Apparel,533
+SanDisk Corporation,Semiconductors and Other Electronic Components,Technology,182,123,7,12,324,142,,Specialty Retailers: Other,10
+Visa Inc.,Financial Data Services,Business Services,49,58,76,132,315,266,,Telecommunications,612
+Pitney Bowes Inc.,"Computers, Office Equipment",Technology,83,97,82,41,303,220,,Tobacco,3
+"Air Products & Chemicals, Inc.",Chemicals,Chemicals,61,59,83,92,295,234,,"Toys, Sporting Goods",197
+The Goodyear Tire & Rubber Company,Motor Vehicles & Parts,Motor Vehicles & Parts,73,72,59,83,287,214,,Transportation and Logistics,1
+Lear Corporation,Motor Vehicles & Parts,Motor Vehicles & Parts,69,74,72,68,283,214,,Utilities: Gas and Electric,40
+NCR Corporation,"Computers, Office Equipment",Technology,50,52,81,91,274,224,,Waste Management,1
+Pfizer Inc.,Pharmaceuticals,Health Care,80,58,78,45,261,181,,Wholesalers: Diversified,16
+DIRECTV,Telecommunications,Telecommunications,75,68,48,67,258,183,,Wholesalers: Electronics and Office Equipment,8
+Eastman Chemical Company,Chemicals,Chemicals,72,79,53,51,255,183,,Wholesalers: Health Care,7
+Eli Lilly and Company,Pharmaceuticals,Health Care,68,75,69,40,252,184,,zMiscellaneous,1
+"Mattel, Inc.","Toys, Sporting Goods",Household Products,53,55,76,66,250,197,,,
+General Motors Company,Motor Vehicles & Parts,Motor Vehicles & Parts,43,49,64,85,241,198,,,
+BorgWarner Inc.,Motor Vehicles & Parts,Motor Vehicles & Parts,32,42,51,77,202,170,,,
+Stryker Corporation,Medical Products and Equipment,Health Care,33,46,55,65,199,166,,,
+Colgate-Palmolive Company,Household and Personal Products,Household Products,33,43,47,74,197,164,,,
+Parker-Hannifin Corporation,Industrial Machinery,Industrials,50,37,58,50,195,145,,,
+"CenturyLink, Inc.",Telecommunications,Telecommunications,0,0,60,119,179,179,,,
+Avery Dennison Corporation,Chemicals,Chemicals,45,48,49,32,174,129,,,
+Comcast Corporation,Telecommunications,Telecommunications,28,34,46,56,164,136,,,
+Alliant Techsystems Inc.,Aerospace & Defense,Aerospace & Defense,31,29,40,59,159,128,,,
+AGCO Corporation,Construction and Farm Machinery,Industrials,24,33,46,54,157,133,,,
+Cameron International Corporation,"Oil and Gas Equipment, Services",Energy,26,22,32,72,152,126,,,
+TRW Automotive Holdings Corp.,Motor Vehicles & Parts,Motor Vehicles & Parts,46,33,34,36,149,103,,,
+ConocoPhillips,Petroleum Refining,Energy,32,50,20,40,142,110,,,
+International Paper Company,Forest and Paper Products,Materials,44,30,20,47,141,97,,,
+First Data Corporation,Financial Data Services,Business Services,49,39,17,31,136,87,,,
+"Gilead Sciences, Inc.",Pharmaceuticals,Health Care,14,25,43,53,135,121,,,
+SPX Corporation,Industrial Machinery,Industrials,35,46,42,12,135,100,,,
+MasterCard Incorporated,Financial Data Services,Business Services,20,24,41,49,134,114,,,
+Emerson Electric Co.,"Electronics, Electrical Equipment",Industrials,48,24,22,32,126,78,,,
+Celanese Corporation,Chemicals,Chemicals,18,23,29,54,124,106,,,
+Goodrich Corporation,Aerospace & Defense,Aerospace & Defense,22,25,36,36,119,97,,,
+The Western Union Company,Financial Data Services,Business Services,26,35,17,36,114,88,,,
+Time Warner Cable Inc.,Telecommunications,Telecommunications,22,21,53,18,114,92,,,
+"National Oilwell Varco, Inc.","Oil and Gas Equipment, Services",Energy,12,17,29,52,110,98,,,
+Ford Motor Company,Motor Vehicles & Parts,Motor Vehicles & Parts,40,27,26,14,107,67,,,
+"L-3 Communications Holdings, Inc.",Aerospace & Defense,Aerospace & Defense,32,23,26,24,105,73,,,
+Morgan Stanley,Commercial Banks,Financials,46,22,16,15,99,53,,,
+Alcoa Inc.,Metals,Materials,22,20,28,27,97,75,,,
+Weyerhaeuser Company,Forest and Paper Products,Materials,31,21,20,22,94,63,,,
+Cummins Inc.,Construction and Farm Machinery,Industrials,27,20,21,26,94,67,,,
+The Coca-Cola Company,Beverages,"Food, Beverages & Tobacco",17,22,28,27,94,77,,,
+Exelis Inc.,Aerospace & Defense,Aerospace & Defense,0,0,48,45,93,93,,,
+AT&T Inc.,Telecommunications,Telecommunications,84,4,3,0,91,7,,,
+MeadWestvaco Corporation,"Packaging, Containers",Materials,29,17,20,19,85,56,,,
+The Clorox Company,Household and Personal Products,Household Products,23,19,16,22,80,57,,,
+Ecolab Inc.,Chemicals,Chemicals,44,21,12,2,79,35,,,
+Walgreen Co.,Food & Drug Stores,Food & Drug Stores,17,18,25,13,73,56,,,
+Nucor Corporation,Metals,Materials,9,22,23,17,71,62,,,
+Celgene Corporation,Pharmaceuticals,Health Care,15,17,18,18,68,53,,,
+Archer-Daniels-Midland Company,Food Production,"Food, Beverages & Tobacco",18,21,17,11,67,49,,,
+"Avon Products, Inc.",Household and Personal Products,Household Products,13,9,19,24,65,52,,,
+Fannie Mae,Diversified Financials,Financials,28,21,7,6,62,34,,,
+Tenneco Inc.,Motor Vehicles & Parts,Motor Vehicles & Parts,9,14,15,24,62,53,,,
+"The PNC Financial Services Group, Inc.",Commercial Banks,Financials,9,11,12,29,61,52,,,
+"Amazon.com, Inc.",Internet Services and Retailing,Technology,17,12,17,10,56,39,,,
+"Stanley Black & Decker, Inc.","Home Equipment, Furnishings",Household Products,0,12,20,22,54,54,,,
+Capital One Financial Corporation,Commercial Banks,Financials,18,12,9,15,54,36,,,
+"PepsiCo, Inc.",Food Consumer Products,"Food, Beverages & Tobacco",7,10,17,17,51,44,,,
+PACCAR Inc,Motor Vehicles & Parts,Motor Vehicles & Parts,11,15,6,17,49,38,,,
+"General Mills, Inc.",Food Consumer Products,"Food, Beverages & Tobacco",6,8,9,24,47,41,,,
+Thermo Fisher Scientific Inc.,"Scientific, Photographic and Control Equipment",Technology,14,9,14,10,47,33,,,
+Northrop Grumman Corporation,Aerospace & Defense,Aerospace & Defense,35,4,2,6,47,12,,,
+"Johnson Controls, Inc.",Motor Vehicles & Parts,Motor Vehicles & Parts,8,8,15,15,46,38,,,
+Sealed Air Corporation,"Packaging, Containers",Materials,7,10,15,13,45,38,,,
+"Medco Health Solutions, Inc.",Health Care: Pharmacy and Other Services,Health Care,12,6,12,14,44,32,,,
+Computer Sciences Corporation,Information Technology Services,Technology,24,13,2,3,42,18,,,
+"Wal-Mart Stores, Inc.",General Merchandisers,Retailing,4,4,14,18,40,36,,,
+The Timken Company,Industrial Machinery,Industrials,12,6,9,9,36,24,,,
+Oshkosh Corporation,Motor Vehicles & Parts,Motor Vehicles & Parts,14,7,8,7,36,22,,,
+"Merck & Co., Inc.",Pharmaceuticals,Health Care,27,2,2,0,31,4,,,
+The Sherwin-Williams Company,Chemicals,Chemicals,7,9,8,6,30,23,,,
+Momentive Specialty Chemicals Inc.,Chemicals,Chemicals,0,9,11,9,29,29,,,
+"Consolidated Edison, Inc.",Utilities: Gas and Electric,Energy,9,4,12,3,28,19,,,
+Sears Holdings Corporation,General Merchandisers,Retailing,1,8,7,10,26,25,,,
+Kellogg Company,Food Consumer Products,"Food, Beverages & Tobacco",4,12,5,2,23,19,,,
+Masco Corporation,"Home Equipment, Furnishings",Household Products,9,5,8,1,23,14,,,
+"St. Jude Medical, Inc.",Medical Products and Equipment,Health Care,3,3,4,12,22,19,,,
+Humana Inc.,Health Care: Insurance and Managed Care,Health Care,4,2,10,6,22,18,,,
+Ball Corporation,"Packaging, Containers",Materials,9,5,5,2,21,12,,,
+"W.W. Grainger, Inc.",Wholesalers: Diversified,Wholesalers,4,5,4,7,20,16,,,
+Boston Scientific Corporation,Medical Products and Equipment,Health Care,5,3,9,1,18,13,,,
+"Genworth Financial , Inc.","Insurance: Life, Health (Stock)",Financials,7,5,2,4,18,11,,,
+Time Warner Inc.,Entertainment,Media,5,4,4,4,17,12,,,
+"Rockwell Automation, Inc.","Electronics, Electrical Equipment",Industrials,6,3,6,1,16,10,,,
+The Southern Company,Utilities: Gas and Electric,Energy,4,5,5,2,16,12,,,
+Sanmina-SCI Corporation,Semiconductors and Other Electronic Components,Technology,1,5,7,2,15,14,,,
+"FMC Technologies, Inc.","Oil and Gas Equipment, Services",Energy,3,6,4,2,15,12,,,
+Kimberly-Clark Corporation,Household and Personal Products,Household Products,5,1,4,4,14,9,,,
+"Bemis Company, Inc.","Packaging, Containers",Materials,4,4,3,3,14,10,,,
+Sara Lee Corporation,Food Consumer Products,"Food, Beverages & Tobacco",8,4,1,1,14,6,,,
+The Bank of New York Mellon Corporation,Commercial Banks,Financials,2,1,7,3,13,11,,,
+Verizon Communications Inc.,Telecommunications,Telecommunications,4,5,4,0,13,9,,,
+"Ameriprise Financial, Inc.",Diversified Financials,Financials,3,3,2,4,12,9,,,
+"Jabil Circuit, Inc.",Semiconductors and Other Electronic Components,Technology,0,6,2,4,12,12,,,
+Starbucks Corporation,Food Services,"Hotels, Restaurants & Leisure",1,2,4,5,12,11,,,
+Dover Corporation,Industrial Machinery,Industrials,1,2,4,4,11,10,,,
+Laboratory Corporation of America Holdings,Health Care: Pharmacy and Other Services,Health Care,0,5,0,5,10,10,,,
+Union Pacific Corporation,Railroads,Transportation,3,1,2,4,10,7,,,
+Aetna Inc.,Health Care: Insurance and Managed Care,Health Care,2,3,1,4,10,8,,,
+Freddie Mac,Diversified Financials,Financials,1,0,6,3,10,9,,,
+Biogen Idec Inc.,Pharmaceuticals,Health Care,4,0,2,3,9,5,,,
+R.R. Donnelley & Sons Company,"Publishing, Printing",Media,0,1,3,5,9,9,,,
+"Land O'Lakes, Inc.",Food Consumer Products,"Food, Beverages & Tobacco",1,1,4,3,9,8,,,
+The Dow Chemical Company,Chemicals,Chemicals,3,3,2,1,9,6,,,
+"American International Group,Inc.",Insurance: Property and Casualty (Stock),Financials,1,2,3,3,9,8,,,
+Hormel Foods Corporation,Food Consumer Products,"Food, Beverages & Tobacco",1,3,3,2,9,8,,,
+"Omnicare, Inc.",Health Care: Pharmacy and Other Services,Health Care,1,1,3,3,8,7,,,
+"Lowe's Companies, Inc.",Specialty Retailers: Other,Retailing,0,1,1,6,8,8,,,
+Southwest Airlines Co.,Airlines,Transportation,4,2,0,2,8,4,,,
+H.J. Heinz Company,Food Consumer Products,"Food, Beverages & Tobacco",1,1,1,5,8,7,,,
+Norfolk Southern Corporation,Railroads,Transportation,2,0,2,4,8,6,,,
+"Cisco Systems, Inc.",Network and Other Communications Equipment,Technology,2,4,2,0,8,6,,,
+Textron Inc.,Aerospace & Defense,Aerospace & Defense,4,0,2,2,8,4,,,
+The Kroger Company,Food & Drug Stores,Food & Drug Stores,2,4,2,0,8,6,,,
+Marathon Oil Corporation,"Mining, Crude-Oil Production",Energy,3,2,1,1,7,4,,,
+The Hershey Company,Food Consumer Products,"Food, Beverages & Tobacco",3,1,2,1,7,4,,,
+URS Corporation,Engineering & Construction,Engineering & Construction,0,2,3,1,6,6,,,
+KeyCorp,Commercial Banks,Financials,1,0,4,1,6,5,,,
+Lincoln National Corporation,"Insurance: Life, Health (Stock)",Financials,0,1,3,2,6,6,,,
+Marathon Petroleum Corporation,Petroleum Refining,Energy,1,2,1,2,6,5,,,
+Apache Corporation,"Mining, Crude-Oil Production",Energy,0,3,0,2,5,5,,,
+New York Life Insurance Company,"Insurance: Life, Health (Mutual)",Financials,1,0,4,0,5,4,,,
+Hess Corporation,Petroleum Refining,Energy,0,3,2,0,5,5,,,
+Monsanto Company,Chemicals,Chemicals,1,3,1,0,5,4,,,
+Anadarko Petroleum Corporation,"Mining, Crude-Oil Production",Energy,1,2,2,0,5,4,,,
+Guardian Life Ins. Co. of America,"Insurance: Life, Health (Mutual)",Financials,2,2,1,0,5,3,,,
+"Henry Schein, Inc.",Wholesalers: Health Care,Health Care,1,2,2,0,5,4,,,
+"BrightPoint, Inc.",Wholesalers: Electronics and Office Equipment,Wholesalers,1,0,0,3,4,3,,,
+"Tyson Foods, Inc.",Food Production,"Food, Beverages & Tobacco",0,0,3,1,4,4,,,
+Massachusetts Mutual Life Insurance Company,"Insurance: Life, Health (Mutual)",Financials,1,1,2,0,4,3,,,
+Freeport-McMoRan Copper & Gold Inc.,"Mining, Crude-Oil Production",Energy,1,3,0,0,4,3,,,
+"Dominion Resources, Inc.",Utilities: Gas and Electric,Energy,1,0,0,3,4,3,,,
+Oracle Corporation,Computer Software,Technology,1,1,1,1,4,3,,,
+FirstEnergy Corp.,Utilities: Gas and Electric,Energy,2,0,1,1,4,2,,,
+"Wynn Resorts, Limited","Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure",1,1,0,1,3,2,,,
+"Altria Group, Inc.",Tobacco,"Food, Beverages & Tobacco",0,1,1,1,3,3,,,
+The Mosaic Company,Chemicals,Chemicals,3,0,0,0,3,0,,,
+United States Steel Corporation,Metals,Materials,0,1,1,1,3,3,,,
+"BlackRock, Inc.",Securities,Financials,0,1,1,1,3,3,,,
+Seaboard Corporation,Food Production,"Food, Beverages & Tobacco",0,0,3,0,3,3,,,
+Ameren Corporation,Utilities: Gas and Electric,Energy,0,1,2,0,3,3,,,
+"Charter Communications, Inc.",Telecommunications,Telecommunications,0,1,2,0,3,3,,,
+Murphy Oil Corporation,Petroleum Refining,Energy,1,1,0,1,3,2,,,
+Frontier Communications Corporation,Telecommunications,Telecommunications,1,0,1,1,3,2,,,
+Aon Corporation,Diversified Financials,Financials,0,1,1,1,3,3,,,
+"Corn Products International, Inc.",Food Production,"Food, Beverages & Tobacco",1,0,1,0,2,1,,,
+AMR Corporation,Airlines,Transportation,0,0,0,2,2,2,,,
+McKesson Corporation,Wholesalers: Health Care,Health Care,0,0,0,2,2,2,,,
+"Assurant, Inc.",Insurance: Property and Casualty (Stock),Financials,0,0,1,1,2,2,,,
+"US Airways Group, Inc.",Airlines,Transportation,1,0,0,1,2,1,,,
+The AES Corporation,Utilities: Gas and Electric,Energy,1,1,0,0,2,1,,,
+Discover Financial Services,Commercial Banks,Financials,0,1,0,1,2,2,,,
+Kraft Foods Inc.,Food Consumer Products,"Food, Beverages & Tobacco",2,0,0,0,2,0,,,
+CDW Corporation,Information Technology Services,Technology,1,1,0,0,2,1,,,
+Bed Bath & Beyond Inc.,Specialty Retailers: Other,Retailing,0,0,0,1,1,1,,,
+V.F. Corporation,Apparel,Apparel,0,0,0,1,1,1,,,
+Ingram Micro Inc.,Wholesalers: Electronics and Office Equipment,Wholesalers,0,0,1,0,1,1,,,
+"The Travelers Companies, Inc.",Insurance: Property and Casualty (Stock),Financials,0,0,1,0,1,1,,,
+"Arrow Electronics, Inc",Wholesalers: Electronics and Office Equipment,Wholesalers,0,1,0,0,1,1,,,
+Calpine Corporation,Energy,Energy,0,0,0,1,1,1,,,
+Campbell Soup Company,Food Consumer Products,"Food, Beverages & Tobacco",0,0,0,1,1,1,,,
+"Health Management Associates, Inc.",Health Care: Medical Facilities,Health Care,0,0,0,1,1,1,,,
+Chevron Corporation,Petroleum Refining,Energy,0,1,0,0,1,1,,,
+"Avnet, Inc.",Wholesalers: Electronics and Office Equipment,Wholesalers,0,1,0,0,1,1,,,
+Wells Fargo & Company,Commercial Banks,Financials,1,0,0,0,1,0,,,
+Exelon Corporation,Utilities: Gas and Electric,Energy,1,0,0,0,1,0,,,
+"Waste Management, Inc.",Waste Management,Business Services,0,0,1,0,1,1,,,
+Cliffs Natural Resources Inc.,"Mining, Crude-Oil Production",Energy,0,0,0,1,1,1,,,
+Baker Hughes Incorporated,"Oil and Gas Equipment, Services",Energy,1,0,0,0,1,0,,,
+Con-way Inc.,Transportation and Logistics,Transportation,0,0,0,1,1,1,,,
+"Constellation Energy Group, Inc.",Energy,Energy,0,0,1,0,1,1,,,
+"Darden Restaurants, Inc.",Food Services,"Hotels, Restaurants & Leisure",0,0,1,0,1,1,,,
+"Dick's Sporting Goods, Inc.",Specialty Retailers: Other,Retailing,0,1,0,0,1,1,,,
+"Live Nation Entertainment, Inc.",Entertainment,Media,0,0,0,1,1,1,,,
+"Kinder Morgan, Inc.",Pipelines,Energy,0,1,0,0,1,1,,,
+Safeway Inc.,Food & Drug Stores,Food & Drug Stores,0,0,1,0,1,1,,,
+Spectra Energy Corp,Pipelines,Energy,0,0,0,1,1,1,,,
+"Ross Stores, Inc.",Specialty Retailers: Apparel,Retailing,0,0,1,0,1,1,,,
+Precision Castparts Corp.,Aerospace & Defense,Aerospace & Defense,1,0,0,0,1,0,,,
+State Street Corporation,Commercial Banks,Financials,0,0,0,1,1,1,,,
+"Steel Dynamics, Inc.",Metals,Materials,1,0,0,0,1,0,,,
+Peabody Energy Corporation,"Mining, Crude-Oil Production",Energy,0,1,0,0,1,1,,,
+Supervalu Inc.,Food & Drug Stores,Food & Drug Stores,0,0,0,1,1,1,,,
+PVH Corp.,Apparel,Apparel,0,0,0,1,1,1,,,
+Synnex Corporation,Wholesalers: Electronics and Office Equipment,Wholesalers,0,0,1,0,1,1,,,
+"PPG Industries, Inc.",Chemicals,Chemicals,0,1,0,0,1,1,,,
+Targa Resources Corp.,Pipelines,Energy,1,0,0,0,1,0,,,
+Tech Data Corporation,Wholesalers: Electronics and Office Equipment,Wholesalers,0,1,0,0,1,1,,,
+"Owens & Minor, Inc.",Wholesalers: Health Care,Health Care,1,0,0,0,1,0,,,
+Terex Corporation,Construction and Farm Machinery,Industrials,0,1,0,0,1,1,,,
+Tesoro Corporation,Petroleum Refining,Energy,0,0,0,1,1,1,,,
+Omnicom Group Inc.,"Advertising, Marketing",Business Services,0,1,0,0,1,1,,,
+"Northwestern Mutual Life Insurance Company,Inc.","Insurance: Life, Health (Mutual)",Financials,1,0,0,0,1,0,,,
+"American Electric Power Company, Inc.",Energy,Energy,0,0,0,1,1,1,,,
+Nationwide Mutual Insurance Co.,Insurance: Property and Casualty (Mutual),Financials,0,0,1,0,1,1,,,
+The Chubb Corporation,Insurance: Property and Casualty (Stock),Financials,0,0,1,0,1,1,,,
+Mylan Inc.,Pharmaceuticals,Health Care,0,0,1,0,1,1,,,
+AmerisourceBergen Corp.,Wholesalers: Health Care,Health Care,0,0,1,0,1,1,,,
+"MetroPCS Communications, Inc.",Telecommunications,Telecommunications,0,0,0,1,1,1,,,
+The J.M. Smucker Company,Food Consumer Products,"Food, Beverages & Tobacco",1,0,0,0,1,0,,,
+"Marriott International, Inc.","Hotels, Casinos, Resorts","Hotels, Restaurants & Leisure",0,0,1,0,1,1,,,
+"Mohawk Industries, Inc.",zMiscellaneous,Household Products,0,0,0,1,1,1,,,
