@@ -1,0 +1,9 @@
+# Core Data Processing & Streaming
+pandas>=2.0.0
+pyarrow>=14.0.0
+
+# Fuzzy Matching & String Normalization
+rapidfuzz>=3.0.0
+
+# Progress Tracking & CLI Interface
+tqdm>=4.65.0

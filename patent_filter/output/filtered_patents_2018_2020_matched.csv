@@ -1,0 +1,10 @@
+patent_id,patent_date,patent_title,num_claims,disambig_assignee_organization,matched_company_name,matched_company_clean,industry,sector,fortune500_years
+10000001,2018-01-15,Neural network accelerator for low-power edge computing,20,Apple Inc.,Apple Inc.,apple,Consumer Electronics,Technology,N/A
+10000005,2018-11-20,High-throughput mRNA synthesis technique,25,Pfizer Inc.,Pfizer Inc.,pfizer,Biopharmaceuticals,Healthcare,N/A
+10000006,2018-12-05,Autonomous vehicle trajectory planner with obstacle avoidance,30,"Tesla, Inc.",Tesla,tesla,Automotive,Clean Tech,N/A
+10000008,2019-02-14,Augmented reality display waveguide optics,22,Apple Inc.,Apple Inc.,apple,Consumer Electronics,Technology,N/A
+10000012,2019-10-15,Battery thermal management system with liquid cooling,19,"Tesla, Inc.",Tesla,tesla,Automotive,Clean Tech,N/A
+10000013,2019-11-01,Foldable phone hinge mechanism,10,Samsung Electronics Co.,Samsung Electronics,samsung electronics,Electronics,Technology,N/A
+10000014,2020-01-20,Spatial audio rendering for binaural headphones,17,Apple Inc.,Apple Inc.,apple,Consumer Electronics,Technology,N/A
+10000017,2020-07-22,Lipid nanoparticle formulation for RNA encapsulation,28,Pfizer Inc.,Pfizer Inc.,pfizer,Biopharmaceuticals,Healthcare,N/A
+10000019,2020-11-30,Dual-rotor electric motor powertrain,22,"Tesla, Inc.",Tesla,tesla,Automotive,Clean Tech,N/A

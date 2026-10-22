@@ -1,0 +1,14 @@
+patent_id,patent_date,patent_title,num_claims,disambig_assignee_organization
+10000001,2018-01-15,Neural network accelerator for low-power edge computing,20,Apple Inc.
+10000002,2018-03-22,Quantum computing gate calibration methodology,15,International Business Machines Corporation
+10000003,2018-07-04,Distributed database sharding and replication protocol,18,Microsoft Corporation
+10000004,2018-09-18,Wind turbine rotor blade pitch control system,12,General Electric Company
+10000005,2018-11-20,High-throughput mRNA synthesis technique,25,Pfizer Inc.
+10000006,2018-12-05,Autonomous vehicle trajectory planner with obstacle avoidance,30,"Tesla, Inc."
+10000007,2018-12-12,Garment hanger with locking swivel hook,4,Smith John D.
+10000008,2019-02-14,Augmented reality display waveguide optics,22,Apple Inc.
+10000009,2019-04-10,Automated cloud container orchestration mechanism,16,"Amazon Technologies, Inc."
+10000010,2019-06-25,Superconducting qubit readout resonator,14,International Business Machines Corporation
+10000011,2019-08-30,Secure cryptographic hardware enclave,21,Intel Corporation
+10000012,2019-10-15,Battery thermal management system with liquid cooling,19,"Tesla, Inc."
+10000013,2019-11-01,Foldable phone hinge mechanism,10,Samsung Electronics Co.
